@@ -222,7 +222,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g2m/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/g2m/proprietary/lib/hw/lights.msm8226.so:system/lib/hw/lights.msm8226.so \
     vendor/lge/g2m/proprietary/vendor/lib/libbmc050.so:system/vendor/lib/libbmc050.so \
-    vendor/lge/g2m/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/g2m/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/lge/g2m/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/lge/g2m/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
@@ -250,12 +249,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g2m/proprietary/lib/libvolumevibratorcallback.so:system/lib/libvolumevibratorcallback.so \
     vendor/lge/g2m/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/lge/g2m/proprietary/lib/hw/sensors.msm8930.so:system/lib/hw/sensors.msm8930.so \
-    vendor/lge/g2m/proprietary/lib/hw/nfc_lg.default.so:system/lib/hw/nfc_lg.default.so \
     vendor/lge/g2m/proprietary/lib/libOlaLGECameraJNI_4.so:system/lib/libOlaLGECameraJNI_4.so \
     vendor/lge/g2m/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
-    vendor/lge/g2m/proprietary/lib/libLGnfc_jni.so:system/lib/libLGnfc_jni.so \
-    vendor/lge/g2m/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
-    vendor/lge/g2m/proprietary/lib/libnfc-nxp-nci.so:system/lib/libnfc-nxp-nci.so \
-    vendor/lge/g2m/proprietary/lib/libLGnfc_config.so:system/lib/libLGnfc_config.so \
     vendor/lge/g2m/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
-    vendor/lge/g2m/proprietary/lib/libvolumevibrator_jni.so:system/lib/libvolumevibrator_jni.so
+    vendor/lge/g2m/proprietary/lib/libvolumevibrator_jni.so:system/lib/libvolumevibrator_jni.so \
+    vendor/lge/g2m/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so
