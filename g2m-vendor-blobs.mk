@@ -252,9 +252,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g2m/proprietary/lib/libOlaLGECameraJNI_4.so:system/lib/libOlaLGECameraJNI_4.so \
     vendor/lge/g2m/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
     vendor/lge/g2m/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
-<<<<<<< HEAD
     vendor/lge/g2m/proprietary/lib/libvolumevibrator_jni.so:system/lib/libvolumevibrator_jni.so \
     vendor/lge/g2m/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so
-=======
     vendor/lge/g2m/proprietary/lib/libvolumevibrator_jni.so:system/lib/libvolumevibrator_jni.so
->>>>>>> 1270c145567bf2d0d7e85b9cf43748d5c9b27508
