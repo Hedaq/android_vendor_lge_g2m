@@ -253,9 +253,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g2m/proprietary/lib/hw/nfc_lg.default.so:system/lib/hw/nfc_lg.default.so \
     vendor/lge/g2m/proprietary/lib/libOlaLGECameraJNI_4.so:system/lib/libOlaLGECameraJNI_4.so \
     vendor/lge/g2m/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
-    vendor/lge/g2m/proprietary/lib/libLGnfc_jni.so:system/lib/libLGnfc_jni.so \
-    vendor/lge/g2m/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
-    vendor/lge/g2m/proprietary/lib/libnfc-nxp-nci.so:system/lib/libnfc-nxp-nci.so \
-    vendor/lge/g2m/proprietary/lib/libLGnfc_config.so:system/lib/libLGnfc_config.so \
     vendor/lge/g2m/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/lge/g2m/proprietary/lib/libvolumevibrator_jni.so:system/lib/libvolumevibrator_jni.so
